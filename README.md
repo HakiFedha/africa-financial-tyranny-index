@@ -13,7 +13,7 @@ An index tracking financial repression against African civil society. Documentin
 
 ## Repository Contents
 * [**Explore the Structured CSV Dataset**](data/africa_index_2026.csv) — Mapping country indicators and documented financial censorship events. 
-* [**Download the Full Narrative PDF Report Here**](https://hakifedha.org/wp-content/uploads/2026/06/africa-financial-tyranny-index-v2.pdf)
+* [**Download the Full Narrative PDF Report Here**](https://hakifedha.org/wp-content/uploads/2026/06/africa-financial-tyranny-index-v2.pdf) (not up to date like the CSV data).
 
 ## Data Contributions & Feedback
 If your organisation has documented or experienced financial censorship, or if you have updates to the existing data models, please submit reports securely via [hakifedha.org](https://hakifedha.org) or contact us directly at `hakifedha@proton.me`.
