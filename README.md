@@ -1,7 +1,7 @@
 # Africa Financial Tyranny Index (AFTI)
+A documented incident register tracking financial repression against African civil society. Documenting how states abuse financial infrastructure to suppress dissent through arbitrary account freezes, foreign funding restrictions, mandatory state banking, and AML/CFT regulations weaponised for political control.
 
-An index tracking financial repression against African civil society. Documenting how states abuse financial infrastructure to suppress dissent through arbitrary account freezes, foreign funding restrictions, mandatory state banking, and AML/CFT regulations weaponised for political control.
-
+**Structure:** AFTI is a tracker, not a scored index. Each entry is a discrete, sourced incident with its own status (Active, Partially Resolved, Under Investigation, Positive Reform, Proposed, Historical, or Allegations Unconfirmed). It does not aggregate incidents into a single ranking or country score. A country with no entry means no incident has yet been documented and verified, not that nothing has happened there.
 ---
 
 > ⚠️ **Project Status: Work in Progress**
